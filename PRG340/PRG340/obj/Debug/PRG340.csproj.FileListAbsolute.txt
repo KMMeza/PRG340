@@ -1,0 +1,6 @@
+c:\users\ccsduser\documents\visual studio 2015\Projects\PRG340\PRG340\bin\Debug\PRG340.exe.config
+c:\users\ccsduser\documents\visual studio 2015\Projects\PRG340\PRG340\bin\Debug\PRG340.exe
+c:\users\ccsduser\documents\visual studio 2015\Projects\PRG340\PRG340\bin\Debug\PRG340.pdb
+c:\users\ccsduser\documents\visual studio 2015\Projects\PRG340\PRG340\obj\Debug\PRG340.csprojResolveAssemblyReference.cache
+c:\users\ccsduser\documents\visual studio 2015\Projects\PRG340\PRG340\obj\Debug\PRG340.exe
+c:\users\ccsduser\documents\visual studio 2015\Projects\PRG340\PRG340\obj\Debug\PRG340.pdb
