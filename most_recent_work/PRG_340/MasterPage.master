@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>
+
+
+    </title>
+        <style>
+            .left{
+            float: left;
+            margin-top: 30px;
+            margin-left: 0px;
+                margin-right: 0px;
+            }
+        /*.footer{
+           position: relative;
+            top: 610px;
+            left: 10px;
+            width: 1245px;
+            height: 35px;
+            margin-top: 0px;
+        }*/
+    </style>
+    
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+       
+        
+            <asp:Panel ID="pnlAddStudent"  CssClass="left" runat="server" Height="155px" Width="960px">
+                <asp:ContentPlaceHolder ID="cphStudent" runat="server">
+                </asp:ContentPlaceHolder>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <asp:Button ID="btnAddStudent" runat="server" style="margin-left: 14px" Text="Add Student " />
+              
+            </asp:Panel>
+      
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+              
+                  <asp:Panel ID="pnlViewAllStudents"   CssClass="left" runat="server" Height="365px" Width="960px">
+                    <br />
+                    <br />
+                      <asp:Button ID="btnViewAllStudents" runat="server" style="margin-left: 15px" Text="View All Students" OnClick="btnViewAllStudents_Click" />
+                      <br />
+                      <asp:Panel ID="pnlMain" runat="server" Height="280px">
+                          <asp:ContentPlaceHolder ID="cphMain" runat="server">
+                          </asp:ContentPlaceHolder>
+                      </asp:Panel>
+                      <br />
+                </asp:Panel>
+      
+    </div>
+    </form>
+</body>
+</html>
