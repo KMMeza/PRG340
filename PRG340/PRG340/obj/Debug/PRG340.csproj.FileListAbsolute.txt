@@ -4,3 +4,6 @@ c:\users\ccsduser\documents\visual studio 2015\Projects\PRG340\PRG340\bin\Debug\
 c:\users\ccsduser\documents\visual studio 2015\Projects\PRG340\PRG340\obj\Debug\PRG340.csprojResolveAssemblyReference.cache
 c:\users\ccsduser\documents\visual studio 2015\Projects\PRG340\PRG340\obj\Debug\PRG340.exe
 c:\users\ccsduser\documents\visual studio 2015\Projects\PRG340\PRG340\obj\Debug\PRG340.pdb
+C:\Users\CCSDuser\Documents\GitHub\PRG340\PRG340\PRG340\bin\Debug\PRG340.exe.config
+C:\Users\CCSDuser\Documents\GitHub\PRG340\PRG340\PRG340\obj\Debug\PRG340.exe
+C:\Users\CCSDuser\Documents\GitHub\PRG340\PRG340\PRG340\obj\Debug\PRG340.pdb

@@ -1,0 +1,16 @@
+--create database Palette;
+--use Palette;
+--create table Student (Student_ID decimal(4,0) primary key, First_Name varchar(20) not null, Last_Name varchar(20) not null, 
+--Phone_number decimal(10,0) not null, Email varchar(40) not null, GPA decimal(3,2));
+--select * from Student;
+
+--insert into Student values(1, 'Kierstin', 'Meza', 5557775556, 'km@yahoo.com', 4.00);
+--insert into Student values(2, 'Chris', 'McCall', 1234567890, 'chris@yahoo.com', 4.00);
+--insert into Student values(3, 'Shauna', 'Yazzie', 9087654321, 'Shauna@yahoo.com', 3.75);
+--insert into Student values(4, 'Asheley', 'Vang', 1115554343, 'Asheley@yahoo.com', 3.89);
+--insert into Student values(5, 'John', 'Smith', 5557775555, 'JohnS@yahoo.com', 3.50);
+--insert into Student values(6, 'Jenny', 'Johnson', 5557664445, 'JJ@yahoo.com', 3.00);
+--insert into Student values(7, 'Baily', 'Anderson', 5557774444, 'BA@yahoo.com', 3.75);
+--insert into Student values(8, 'Becca', 'Brown', 5558885555, 'Becca@yahoo.com', 4.0);
+--insert into Student values(9, 'Emily', 'James', 5559995555, 'Emily@yahoo.com', 3.85);
+--insert into Student values(10, 'Anthony', 'Jones', 5557775555, 'AJ@yahoo.com', 3.00);

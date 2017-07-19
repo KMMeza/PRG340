@@ -18,7 +18,15 @@ namespace PRG340
         //This is the useful Constructor
         public Configuration_Parameters(String configFileName)
         {
-
+            FileStream fs = File.Open(configFileName, FileMode.Open, FileAccess.Read, FileShare.None);
+            if(fs == null)
+            {
+                Console.WriteLine("File cannot be accessed for reading - Aborting\r\n");
+            }
+            else
+            {
+                Console.WriteLine("File is available for reading - Continuing\r\n");
+            }
         }
 
 
